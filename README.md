@@ -6,3 +6,6 @@ Este proyecto es una historia interactiva en la que el jugador toma el papel de 
 
 ## Imagen de la pantalla principal
 ![Imagen de la pantalla principal donde empiezas a tomar tus decisiones](assets/PantallaPrincipal.png)
+
+## Seguir la historia
+Si quieres seguir la historia puedes dirigirte a [este enlace](https://221256.devng.online/lab3/).
